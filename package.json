@@ -1,0 +1,11 @@
+{
+  "name": "multi-beziers",
+  "repository": "tytusmastah/multi-beziers",
+  "version": "0.0.1",
+  "devDependencies": {
+    "p5": "*",
+    "ccapture.js": "*"
+  },
+  "license": "LGPL-2.1",
+  "homepage": "https://github.com/tytusmastah/multi-beziers/README.md"
+}
